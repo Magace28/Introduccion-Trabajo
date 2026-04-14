@@ -25,7 +25,13 @@ scanf("%d",&r);
 if(r==25)
 		printf("Respuesta correcta\n");
 	else
-		printf("Incorrecta\n")
+		printf("Incorrecta\n");
+printf("Cu%cnto es 100*100?");
+scanf("%d",&r);
+if(r==10000)
+        printf("Respuesta correcta\n");
+    else
+        printf("Incorrecta\n);
 
 system("pause");
 return 0;
