@@ -7,21 +7,25 @@ int r;
 char s,n;
 
 puts("-----Examen de matematicas-----");
-printf("Cu%cnto es 2+2?",163);
+printf("Cu%cnto es 2+2?",160);
 scanf("%d",&r);
 if(r==4)
 		printf("Respuesta correcta\n");
 	else
 		printf("Incorrecta\n");
 
-printf("Cu%cnto es 4*4?",163);
+printf("Cu%cnto es 4*4?",160);
 scanf("%d",&r);
 if(r==16)
 		printf("Respuesta correcta\n");
 	else
 		printf("Incorrecta\n");
-
-
+printf("Cu%cnto es 5*5?",160);
+scanf("%d",&r);
+if(r==25)
+		printf("Respuesta correcta\n");
+	else
+		printf("Incorrecta\n")
 
 system("pause");
 return 0;
