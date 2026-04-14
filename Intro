@@ -2,12 +2,15 @@
 #include <stdlib.h>
 
 int main ()
+{
 int r;
 char s,n;
-{
-puts("-----Examen de matematicas-----")
-printf("Cu%cnto es 2+2?",163);
 
+puts("-----Examen de matematicas-----");
+printf("Cu%cnto es 2+2?",163);
+scanf("%d",&r);
+printf("Cu%cnto es 4*4?",163);
+scanf("%d",&r);
 
 
 system("pause");
