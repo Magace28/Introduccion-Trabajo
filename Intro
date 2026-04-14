@@ -1,0 +1,15 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main ()
+int r;
+char s,n;
+{
+puts("-----Examen de matematicas-----")
+printf("Cu%cnto es 2+2?",163);
+
+
+
+system("pause");
+return 0;
+}
